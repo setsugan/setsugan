@@ -40,3 +40,5 @@ Hi, I'm a technical college student in Japan.
     <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=setsugan&show_icons=true&theme=default#gh-light-mode-only" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=setsugan&margin-w=5)](https://github.com/tsuki-lab/)
