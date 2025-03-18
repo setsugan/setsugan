@@ -22,5 +22,3 @@ Hi, I'm a technical college student in Japan.
 [![Followers](https://badgen.org/img/zenn/setsugan/followers?style=for-the-badge)](https://zenn.dev/setsugan)
 [![Articles](https://badgen.org/img/zenn/setsugan/articles?style=for-the-badge)](https://zenn.dev/setsugan)
 [![Rating](https://badgen.org/img/atcoder/setsugan/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/setsugan?contestType=algo)
-[![Followers](https://badgen.org/img/bluesky/setsugan.bsky.social/followers?style=for-the-badge)](https://bsky.app/profile/setsugan.bsky.social)
-[![Posts](https://badgen.org/img/bluesky/setsugan.bsky.social/posts?style=for-the-badge)](https://bsky.app/profile/setsugan.bsky.social)
