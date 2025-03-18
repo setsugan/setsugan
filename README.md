@@ -41,4 +41,4 @@ Hi, I'm a technical college student in Japan.
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=setsugan&margin-w=5)](https://github.com/tsuki-lab/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=setsugan&margin-w=5)](https://github.com/setsugan/)
