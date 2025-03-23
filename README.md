@@ -33,28 +33,9 @@ Hi, I'm a technical college student in Japan.
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=setsugan&theme=transparent&hide_border=true" /></a>
 </p>
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=setsugan&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Copy-paste in your Readme.md file -->
-
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=199357749" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=199357749&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @setsugan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=199357749&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=199357749" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=199357749&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @setsugan" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=199357749&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=setsugan&no-frame=true&no-bg=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
