@@ -32,10 +32,3 @@ Hi, I'm a technical college student in Japan.
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=setsugan&count_private=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&theme=transparent" /></a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=setsugan&theme=transparent&hide_border=true" /></a>
 </p>
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=199357749" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=199357749&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @setsugan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=199357749&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
