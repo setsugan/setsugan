@@ -2,7 +2,7 @@
 
 I'm a student at the National Institute of Technology, Numazu College.
 
-I'm interested in robotics and autonomous systems. As a member of the Numazu KOSEN Robocon Club, I develop autonomous robot control systems using ROS 2.
+I'm interested in robotics and autonomous systems. As a member of the [Numazu KOSEN Robocon Club](https://github.com/Robocon-Club), I develop autonomous robot control systems using ROS 2.
 
 ## My Skills
 
